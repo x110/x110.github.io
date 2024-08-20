@@ -1,7 +1,7 @@
 title: Mariam Sagban
-description: Mariam Sagban
+description: My work
 baseurl: "" # leave blank for root
-url: "https://x110.github.io" # your domain
+url: "https://x110.github.io" 
 
 theme: minimal-mistakes-jekyll
 
@@ -28,3 +28,13 @@ plugins:
 
 # If you are using the github-pages gem, add the following
 remote_theme: "mmistakes/minimal-mistakes"
+
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "Blog"
+    url: /blog/
+  - title: "About"
+    url: /about/
