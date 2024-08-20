@@ -1,0 +1,30 @@
+title: Mariam Sagban
+description: Mariam Sagban
+baseurl: "" # leave blank for root
+url: "https://x110.github.io" # your domain
+
+theme: minimal-mistakes-jekyll
+
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-archives
+  - jekyll-avatar
+  - jekyll-coffeescript
+  - jekyll-default-layout
+  - jekyll-github-metadata
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-redirect-from
+  - jekyll-relative-links
+  - jekyll-titles-from-headings
+  - jekyll-remote-theme
+
+# If you are using the github-pages gem, add the following
+remote_theme: "mmistakes/minimal-mistakes"
